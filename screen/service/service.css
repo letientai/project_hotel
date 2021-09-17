@@ -79,7 +79,8 @@
 }
 .img2:hover{
     opacity: 1;
-    transition: 500ms;
+    transition: 510ms;
+
 }
 .img3{
     background-image: url("../imgs/icon2b_1558584848.jpg");
